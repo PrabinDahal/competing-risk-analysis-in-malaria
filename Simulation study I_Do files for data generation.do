@@ -11,6 +11,8 @@
 *	Related Publication: This script was used to generate data for "Simulation study I" described in the following publication:
 *	Evaluating antimalarial efficacy in single-armed and comparative drug trials using competing risk survival analysis: A simulation study
 *-----------------------------------------------------------------------------------------------------------------------------------------------
+*	Version: Stata 15.1
+*-----------------------------------------------------------------------------------------------------------------------------------------------
 
 *-----------------------------------------------------------
 * Scenario 1a: 5% recrudescence &  <10% new infection
