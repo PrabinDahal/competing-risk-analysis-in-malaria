@@ -10,7 +10,7 @@
 *------------------------------------------------------------------------------------------------------------------------------------------------
 *	Related Publication: This script was used to generate data for "Simulation study I" described in the following publication:
 *	Evaluating antimalarial efficacy in single-armed and comparative drug trials using competing risk survival analysis: A simulation study
-*    Authors: Prabin Dahal, Philippe J. Guerin, Ric N. Price, Julie A. Simpson, Kasia Stepniewska
+*       Authors: Prabin Dahal, Philippe J. Guerin, Ric N. Price, Julie A. Simpson, Kasia Stepniewska
 *-----------------------------------------------------------------------------------------------------------------------------------------------
 *	Version: Stata 15.1
 *-----------------------------------------------------------------------------------------------------------------------------------------------
