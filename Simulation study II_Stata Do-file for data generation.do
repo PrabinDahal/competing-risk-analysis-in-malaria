@@ -3,16 +3,16 @@
 *-------------------------------------------------------------------------------------------------------------
 *	stime_drugA_rc	: Time to primary event of interest (recrudescence) in days for drug A
 *	stime_drugA_ri	: Time to competing risk event (new infection) in days for drug A
-* 	event_A			: Primary event of interest (recrudescence) (1= recrudescence, 0=otherwise) for drug A
-* 	event2_A		: Competing risk event (new infection)	(1= new infection, 0=otherwise) for drug A
+* event_A			    : Primary event of interest (recrudescence) (1= recrudescence, 0=otherwise) for drug A
+* event2_A	    	: Competing risk event (new infection)	(1= new infection, 0=otherwise) for drug A
 *-------------------------------------------------------------------------------------------------------------
 *	stime_drugB_rc	: Time to primary event of interest (recrudescence) in days for drug B
 *	stime_drugB_ri	: Time to competing risk event (new infection) in days for drug B
-* 	event_B			: Primary event of interest (recrudescence) (1= recrudescence, 0=otherwise) for drug B
-* 	event2_B		: Competing risk event (new infection)	(1= new infection, 0=otherwise) for drug B
+* event_B   			: Primary event of interest (recrudescence) (1= recrudescence, 0=otherwise) for drug B
+* event2_B	    	: Competing risk event (new infection)	(1= new infection, 0=otherwise) for drug B
 *-------------------------------------------------------------------------------------------------------------
-*	mintime			: Minimum time to recrudescence/new infection. This is set to 14 days.
-* 	maxtime			: Minimum time to recrudescence/new infection. This is length of study follow-up and set to 63 days.
+*	mintime			    : Minimum time to recrudescence/new infection. This is set to 14 days.
+* maxtime			    : Minimum time to recrudescence/new infection. This is length of study follow-up and set to 63 days.
 *------------------------------------------------------------------------------------------------------------------------------------------------
 *	Related Publication: This script was used to generate data for "Simulation study II" described in the following publication:
 *	Evaluating antimalarial efficacy in single-armed and comparative drug trials using competing risk survival analysis: A simulation study
