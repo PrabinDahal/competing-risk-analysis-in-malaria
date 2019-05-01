@@ -3,8 +3,8 @@
 *-------------------------------------------------------------------------------------------------------------
 *	stime_drugA_rc	: Time to primary event of interest (recrudescence) in days for drug A
 *	stime_drugA_ri	: Time to competing risk event (new infection) in days for drug A
-* 	event_A			: Primary event of interest (recrudescence) (1= recrudescence, 0=otherwise) for drug A
-* 	event2_A		: Competing risk event (new infection)	(1= new infection, 0=otherwise) for drug A
+*	event_A			: Primary event of interest (recrudescence) (1= recrudescence, 0=otherwise) for drug A
+*	event2_A		: Competing risk event (new infection)	(1= new infection, 0=otherwise) for drug A
 *-------------------------------------------------------------------------------------------------------------
 *	stime_drugB_rc	: Time to primary event of interest (recrudescence) in days for drug B
 *	stime_drugB_ri	: Time to competing risk event (new infection) in days for drug B
