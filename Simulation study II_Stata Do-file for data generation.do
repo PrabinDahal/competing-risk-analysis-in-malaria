@@ -1,5 +1,5 @@
 *-----------------------------------------------------------------------------------------------------------------------------------------------
-* 	Title	: Competing risk analysis in standalone antimalarial studies
+* 	Title	: Competing risk analysis in comparative drug studies
 *-------------------------------------------------------------------------------------------------------------
 *	stime_drugA_rc	: Time to primary event of interest (recrudescence) in days for drug A
 *	stime_drugA_ri	: Time to competing risk event (new infection) in days for drug A
